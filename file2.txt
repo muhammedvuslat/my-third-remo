@@ -1,2 +1,2 @@
-Hello 
-Gnu Nano first 
+Merhaba 
+ilk nano editör
